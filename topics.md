@@ -4,12 +4,10 @@ title:
 permalink: /topics/
 ---
 
-A list of topics I would like to write about or have in mind. 
+A list of Probable Podcast Topics:
 
-*(as a rule, I can only add topics and never remove it)*
+- Social Medias
 
-<ul>
-{% for topic in site.data.topics  %}
-  <li> {{topic}} </li>
-{% endfor %}
-</ul>
+- Communism vs Capitalism
+
+- Consumerism
