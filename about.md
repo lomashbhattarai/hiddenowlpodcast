@@ -6,7 +6,12 @@ permalink: /about/
 
 Hidden Owl Podcast
 
-A list of:
+A list of Probable Podcast Topics:
 
-- [topics](https://lomashbhattarai.github.io/hiddenowlpodcast/topics/)
+- Social Medias
+
+- Communism vs Capitalism
+
+- Consumerism
+
 
