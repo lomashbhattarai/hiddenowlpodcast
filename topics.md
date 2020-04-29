@@ -10,5 +10,9 @@ A list of topics we have in mind:
 
 - Capitalism vs Communism
 
+- Religon
+
+- Drugs
+
 
 
