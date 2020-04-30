@@ -14,5 +14,11 @@ A list of topics we have in mind:
 
 - Drugs
 
+-Education System
+
+-Dream Analysis
+
+-Catching up after college
+
 
 
