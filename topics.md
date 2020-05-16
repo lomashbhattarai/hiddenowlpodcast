@@ -6,19 +6,22 @@ permalink: /topics/
 
 A list of topics we have in mind:
 
-- Social media
+- ~~Social media~~
 
 - Capitalism vs Communism
 
-- Religon
+- ~~Religon~~
 
 - Drugs
 
-- Education System
+- ~~Education System~~
 
 - Dream Analysis
 
 - Catching up after college
+
+- ~~Artificial Intelligence~~
+
 
 
 
