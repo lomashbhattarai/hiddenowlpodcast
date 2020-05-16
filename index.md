@@ -23,5 +23,3 @@ A list of topics we have in mind: <br />
 
 
 
-x
-
