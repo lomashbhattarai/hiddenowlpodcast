@@ -3,9 +3,9 @@ layout: page
 title: Topics
 ---
 
-A list of topics we have in mind:
+A list of topics we have in mind: <br />
 
-- ~~Social media~~ <br/>
+- ~~Social media <br/>
 
 - Capitalism vs Communism <br/>  
 
