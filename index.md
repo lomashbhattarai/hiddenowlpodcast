@@ -7,7 +7,7 @@ A list of topics we have in mind: <br />
 
 - ~~Social media~~ <br/>
 
-- Capitalism vs Communism <br/>  
+- ~~Capitalism vs Communism~~ <br/>  
 
 - ~~Religon~~  <br/>
 
@@ -20,6 +20,17 @@ A list of topics we have in mind: <br />
 - Catching up after college <br/> 
 
 - ~~Artificial Intelligence~~  <br/>
+
+- Urban Planning and Public Transport <br/>
+
+- F.R.I.E.N.D.S <br/>
+
+- Reading Bhagwat Geeta <br/>
+
+- Jordan Peterson <br/>
+
+- ~~Feminism~~
+
 
 
 
