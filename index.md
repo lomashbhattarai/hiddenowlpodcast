@@ -21,7 +21,7 @@ A list of topics we have in mind: <br />
 
 - ~~Artificial Intelligence~~  <br/>
 
-- ~~Urban Planning and Public Transport <br/>
+- ~~Urban Planning and Public Transport~~ <br/>
 
 - F.R.I.E.N.D.S <br/>
 
